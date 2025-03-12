@@ -141,4 +141,4 @@ coisasVelhasParaDoar.forEach(function(item, index) {
 
 // Para fazer o commit dessa aula, você deve copiar o código desta aula e colar no arquivo que você criou na aula 01-Introdução.
 // E fazer o commit com a seguinte mensagem:
-// "Aula 02 - Variáveis e Arrays"
+// "Aula 02 - Variáveis e Arrays Parte 1"
